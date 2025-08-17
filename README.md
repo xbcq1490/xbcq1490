@@ -1,11 +1,11 @@
 ## Hi there! 👋  
 
-🌱 I’m learning **C++**  
-💻 I code in **JavaScript (Node.js), HTML, Lua**  
-📫 Reach me on **Discord: xbcq**  
+🌱 I’m struggling to learn **Java**  
+💻 I code in **JavaScript (Node.js), HTML, Lua, Python**  
+📫 Reach me on **Discord: xbcq** or thru **Mail**: mail@xbcq.lol
 
 ### 🚀 Technologies & Tools  
-- 🛠 Lua 
+- 🛠 Lua, Node.js, Python
 - 🌐 HTML, CSS, JavaScript 
 
 ### 🌟 Fun Fact  
