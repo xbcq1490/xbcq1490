@@ -20,6 +20,10 @@
 
 ### Used operating systems
 
+![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)
+![iOS](https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-FF5500?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ### 🌟 Fun Fact  
 I make really unoptimized, trashy code, so please don't judge me for it!
 
