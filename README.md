@@ -6,17 +6,17 @@
 
 ### 🚀 Main stack
 
-- 🛠 Bun (using Typescript for type safety), Express, Pocketbase
-- 🌐 Svelte & SvelteKit / React & Next.js (depends on my mood)
+- 🛠 Bun, Elysia, Drizzle
+- 🌐 Svelte & SvelteKit
 
 ## 🌐 Known languages & tools
 
 ### 📱 Frontend
 
 ![Svelte](https://img.shields.io/badge/Svelte_&_SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Backend
@@ -32,10 +32,6 @@
 ![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)
 ![iOS](https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-FF5500?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## 🔍 Fun Fact
-
-I write code that’s **incredibly** unoptimized and poorly written, so please don’t judge me for it!
 
 ---
 
